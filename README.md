@@ -70,11 +70,3 @@ To use this DApp user must have an extension called [Metamask](https://metamask.
 - The platform allows users to track the amount raised and days left for each campaign whereas, it includes functionality to track and display the number of donations made to a specific campaign, providing transparency and accountability.
 - The ability to track the progress of campaign creation and view multiple campaign cards created by different users adds transparency and visibility to the crowdfunding platform.
 
-## Credits:
-
-https://github.com/adrianhajdin/project_crowdfunding
-
-## Contributor:
-
-1.	https://github.com/thekiranmahajan
-2.	https://github.com/thesakshijaiswal
